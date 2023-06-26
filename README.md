@@ -1,0 +1,4 @@
+# URL Shortener
+This is a simple website which shortenes the URL provided by the user. The user can also add a note when he inputs the full URL, which must be unique. The website stores the data of the full URL provided by the user, the note provided with it, its shortened version, and the number of clicks the user has clicked on the shortened URL. In addition, there is a search feature included in the website which helps you to search the database using full URL, shortened URL or the note.
+## To run the project
+You must have node.js installed in your computer. Clone this repository in a local directory in your computer.First open the file [server.js](files/server.js) Open terminal switch to the local directory, write `npm install` and then write `nodemon server`. The website should automatically open in the browser, if not, open the browser and type "localhost:5000" 
