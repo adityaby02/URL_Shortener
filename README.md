@@ -8,7 +8,7 @@ I have used MongoDB, Express, and node.js to develop the website. It uses the sh
 ![Screenshot (34)](https://github.com/adityaby02/URL_Shortener/assets/101334086/2c3b76e0-482e-4a09-9a3e-d166cf8f9ec5)
 
 ## What did I learn?
-Learned a lot about web development (to the extent I am pretty clear now should I pursue it or not 🫠). More specifically, learned about the MERN stack, though I have not implemented React in my project but had a basic exposure to it during this project. 
+Learned a lot about web development . More specifically, learned about the MERN stack, though I have not implemented React in my project but had a basic exposure to it during this project. 
 ## Resources used
 * YouTube
 * StackOverflow
